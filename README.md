@@ -36,8 +36,11 @@ A full-stack finance management system designed for vendors to track expenses, m
 
 ## 📸 Screenshots
 
-![Dashboard](screenshot1.png)
-![Analysis](screenshot2.png)
+### 🏠 Home Page
+![Home](dashboard.jpeg)
+
+### 📊 Dashboard & Analysis
+![Dashboard](analysis.jpeg)
 
 ## 🎯 Use Case
 Designed for small vendors and businesses to replace manual bookkeeping with a digital, automated system.
